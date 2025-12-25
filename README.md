@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **B.Tech student at NITK Surathkal** (Major in Mechanical, Minor in CS) bridging the gap between low-level systems and high-level AI.
+I am a **B.Tech student at NITK Surathkal**  bridging the gap between low-level systems and high-level AI.
 
 * 💼 **Experience:** Former **Automation Intern at Caterpillar Inc.** (Modernized legacy systems & reduced manual intervention).
 * 🔭 **Currently working on:** **GuardChat** (Secure Enterprise RAG) and **Agri-Sahayak** (Voice-First AI for Farmers).
